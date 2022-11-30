@@ -4,6 +4,7 @@
 - [React Router Training](https://github.com/Ipicky22/React-Router-Training)
 - [Redux Training](https://github.com/Ipicky22/Redux-Training)
 - [Tesla Homepage](https://github.com/Ipicky22/React-Tesla-Homepage)
+- [Metaversus](https://github.com/Ipicky22/Metaversus)
 
 ## React Native
 
