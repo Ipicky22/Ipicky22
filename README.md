@@ -1,6 +1,7 @@
 ## React
 
 - [TFT Recipes](https://github.com/Ipicky22/TFTRecipes)
+- [Zustand Training](https://github.com/Ipicky22/zustand-training)
 - [React Router Training](https://github.com/Ipicky22/React-Router-Training)
 - [Redux Training](https://github.com/Ipicky22/Redux-Training)
 - [Tesla Homepage](https://github.com/Ipicky22/React-Tesla-Homepage)
